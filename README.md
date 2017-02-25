@@ -7,7 +7,7 @@ https://github.com/lukehoban/es6features#binary-and-octal-literals
 
 In my webpack config, I only use it on particular files that are troublesome.
 
-```json
+```js
 {
   test: /tar[\\\/].*\.js$/,
   loader: 'babel-loader!octal-number-loader'
