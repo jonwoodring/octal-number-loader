@@ -1,0 +1,28 @@
+{
+  "name": "octal-number-loader",
+  "version": "0.1.0",
+  "description": "A webpack loader to change octal numbers: 00001 => 0o0001",
+  "main": "./index.js",
+  "scripts": {
+    "start": "echo \"see the README.md\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonwoodring/octal-number-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "octal",
+    "strict",
+    "babel"
+  ],
+  "author": "Jon Woodring <woodring.jon@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/jonwoodring/octal-number-loader/issues"
+  },
+  "homepage": "https://github.com/jonwoodring/octal-number-loader#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
