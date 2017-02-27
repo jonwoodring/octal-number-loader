@@ -1,6 +1,6 @@
 {
   "name": "octal-number-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A webpack loader to change octal numbers: 00001 => 0o0001",
   "main": "./index.js",
   "scripts": {
