@@ -14,6 +14,11 @@ In my webpack config, I only use it on particular files that are troublesome.
 }
 ```
 
+Notes
+=====
+
+- It should correctly handle identifiers and floating point numbers now.
+
 ---
 
 Use as you see fit, I claim no copyright over this.
